@@ -24,7 +24,7 @@ void draw()
   if (sparks[0] == null)
   {
     fill(255);
-    text("click to launch a firework", width / 2, height / 2);
+    text("click anywhere", width / 2, height / 2);
   }
 
   if (flying)
